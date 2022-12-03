@@ -4,10 +4,10 @@
 
 ## Helper functions
 
-[Chess Board Setup] (https://github.com/Rash001/AI_Chess_Game/blob/main/chessboard.py)
-[Chess Pieces Placement] (https://github.com/Rash001/AI_Chess_Game/blob/main/chessPieces.py)
-[Chess Pieces Moves] (https://github.com/Rash001/AI_Chess_Game/blob/main/pieceMoves.py)
-[Minimax Evaluation] (https://github.com/Rash001/AI_Chess_Game/blob/main/chessMiniMax.py)
+<br>[Chess Board Setup] (https://github.com/Rash001/AI_Chess_Game/blob/main/chessboard.py) 
+<br>[Chess Pieces Placement] (https://github.com/Rash001/AI_Chess_Game/blob/main/chessPieces.py)
+<br>[Chess Pieces Moves] (https://github.com/Rash001/AI_Chess_Game/blob/main/pieceMoves.py)
+<br>[Minimax Evaluation] (https://github.com/Rash001/AI_Chess_Game/blob/main/chessMiniMax.py)
 
 Execute:
 [To Play Chess with AI] (https://github.com/Rash001/AI_Chess_Game/blob/main/playChess.py)
@@ -41,10 +41,10 @@ Find the color of the player piece (Black/White) displayed as the winner with a 
 
 ## Citations
 
-(https://towardsdatascience.com/train-your-own-chess-ai-66b9ca8d71e4)
-(https://www.geeksforgeeks.org/game-playing-in-artificial-intelligence/)
-https://github.com/luweizhang/chess-ai/blob/master/chessgame.py
-/github.com/Dirk94/ChessAI/blob/master/board.py
+<br>(https://towardsdatascience.com/train-your-own-chess-ai-66b9ca8d71e4)
+<br>(https://www.geeksforgeeks.org/game-playing-in-artificial-intelligence/)
+<br>(https://github.com/luweizhang/chess-ai/blob/master/chessgame.py)
+
 
 
 
