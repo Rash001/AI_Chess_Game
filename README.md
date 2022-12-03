@@ -8,8 +8,9 @@
 <br>[Chess Pieces Placement] (https://github.com/Rash001/AI_Chess_Game/blob/main/chessPieces.py)
 <br>[Chess Pieces Moves] (https://github.com/Rash001/AI_Chess_Game/blob/main/pieceMoves.py)
 <br>[Minimax Evaluation] (https://github.com/Rash001/AI_Chess_Game/blob/main/chessMiniMax.py)
+<br>[Game Score Plot Graph] (https://github.com/Rash001/AI_Chess_Game/blob/main/Plot_Scores.py)
 
-Execute:
+## Execute:
 [To Play Chess with AI] (https://github.com/Rash001/AI_Chess_Game/blob/main/playChess.py)
 
 
@@ -38,6 +39,12 @@ Step 2: Now give an input in the for of x,y (eg. 6,0) indicating  position of th
 Step 3: Now give an input in the for of x,y (eg. 5,0) indicating  the position  on the board where you would like your piece to move 
 Step 4: Continue this until checkmate(either of the king has been killed)
 Find the color of the player piece (Black/White) displayed as the winner with a score of each player by the end of the game
+
+## Plot of Game Scores 
+
+![ Game Score AI & Human Player](https://github.com/Rash001/AI_Chess_Game/blob/main/GameScore.png)
+
+
 
 ## Citations
 
