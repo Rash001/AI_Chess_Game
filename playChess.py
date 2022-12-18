@@ -5,8 +5,8 @@ import numpy as np
 import random as rd
 import copy
 
-def Game_user_action(minichess, game_size): #Initiate a real game
-    color = 'B'     #For convenience, AIs always move first
+def Game_user_action(minichess, game_size): 
+    color = 'B'    
     while(1):
         print('Please select two players in the game: ')
         print(' 1.Tree Based AI, 2.Baseline AI, 3.Manually')
@@ -79,11 +79,11 @@ def Game_user_action(minichess, game_size): #Initiate a real game
                     else:
                         successful = AI_Game.AI.state.move_piece(piece, goal) 
                         #print('Success', successful) 
-                        if (successful == 0):  # Move cannot be done
+                        if (successful == 0):  
                             print('Invalid move ')
                             continue
                         else:
-                            valid = 1  # One turn is accomplished
+                            valid = 1  
             elif (option == '2'):
                 print('XXXXXXX GAME OVER XXXXXXX')  # Quit the game
                 return 0
