@@ -13,10 +13,12 @@
 
 ## Dependencies 
 import numpy 
-install using the command : pip install numpy
+install using the command : 
+`pip install numpy`
 
 import matplotlib
-install using the command : pip install matplotlib
+install using the command : 
+`pip install matplotlib`
 
 ## Steps for Execution 
 1. Run the file playChess.py
@@ -38,13 +40,13 @@ install using the command : pip install matplotlib
 
 ## Citations and Attributions
 
-<br>Spears, Logan. “Train Your Own Chess Ai.” Medium, Towards Data Science, 17 Aug. 2021, https://towardsdatascience.com/train-your-own-chess-ai-66b9ca8d71e4. 
-<br>Russell, Stuart J., et al. “The Minimax Search Algorithm.” Artificial Intelligence: A Modern Approach, Fourth Edition, Fourth ed., Pearson Education, Harlow, 2021, pp. 146–151.</br> 
-<br>Dirk94.“Dirk94/Chessai: Chess Ai Written in Python. GitHub, https://github.com/Dirk94/ChessAI. 
-<br>“Minimax Algorithm in Game Theory: Set 1 (Introduction).” GeeksforGeeks, 13 June 2022, https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/. 
-<br>“NumPy Documentation#.” NumPy Documentation - NumPy v1.23 Manual, https://numpy.org/doc/stable/. 
-<br>“Copy in Python (Deep Copy and Shallow Copy).” GeeksforGeeks, 12 Oct. 2022, https://www.geeksforgeeks.org/copy-python-deep-copy-shallow-copy/. 
-<br>“Histograms#.” Histograms - Matplotlib 3.6.2 Documentation, https://matplotlib.org/stable/gallery/statistics/hist.html. 
-<br>“Numpy.random.randint#.” Numpy.random.randint - NumPy v1.23 Manual, https://numpy.org/doc/stable/reference/random/generated/numpy.random.randint.html
-<br>Eppes, Marissa. “How a Computerized Chess Opponent ‘Thinks’ - the Minimax Algorithm.” Medium, Towards Data Science, 6 Oct. 2019, https://towardsdatascience.com/how-a-chess-playing-computer-thinks-about-its-next-move-8f028bd0e7b1. 
-<br>Luweizhang. “Chess-Ai/Chessgame.py at Master · Luweizhang/Chess-AI.” GitHub, https://github.com/luweizhang/chess-ai/blob/master/chessgame.py. 
+- Spears, Logan. “Train Your Own Chess Ai.” Medium, Towards Data Science, 17 Aug. 2021, https://towardsdatascience.com/train-your-own-chess-ai-66b9ca8d71e4. 
+- Russell, Stuart J., et al. “The Minimax Search Algorithm.” Artificial Intelligence: A Modern Approach, Fourth Edition, Fourth ed., Pearson Education, Harlow, 2021, pp. 146–151.</br> 
+- Dirk94.“Dirk94/Chessai: Chess Ai Written in Python. GitHub, https://github.com/Dirk94/ChessAI. 
+- “Minimax Algorithm in Game Theory: Set 1 (Introduction).” GeeksforGeeks, 13 June 2022, https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/. 
+- “NumPy Documentation#.” NumPy Documentation - NumPy v1.23 Manual, https://numpy.org/doc/stable/. 
+- “Copy in Python (Deep Copy and Shallow Copy).” GeeksforGeeks, 12 Oct. 2022, https://www.geeksforgeeks.org/copy-python-deep-copy-shallow-copy/. 
+- “Histograms#.” Histograms - Matplotlib 3.6.2 Documentation, https://matplotlib.org/stable/gallery/statistics/hist.html. 
+- “Numpy.random.randint#.” Numpy.random.randint - NumPy v1.23 Manual, https://numpy.org/doc/stable/reference/random/generated/numpy.random.randint.html
+- Eppes, Marissa. “How a Computerized Chess Opponent ‘Thinks’ - the Minimax Algorithm.” Medium, Towards Data Science, 6 Oct. 2019, https://towardsdatascience.com/how-a-chess-playing-computer-thinks-about-its-next-move-8f028bd0e7b1. 
+- Luweizhang. “Chess-Ai/Chessgame.py at Master · Luweizhang/Chess-AI.” GitHub, https://github.com/luweizhang/chess-ai/blob/master/chessgame.py. 
