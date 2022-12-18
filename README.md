@@ -30,9 +30,9 @@ Step 3: Now give an input in the for of x,y (eg. 5,0) indicating  the position  
 Step 4: Continue this until checkmate(either of the king has been killed)
 Find the color of the player piece (Black/White) displayed as the winner with a score of each player by the end of the game
 
-## Plot of Game Scores 
-
-![ Game Score AI & Human Player](https://github.com/Rash001/AI_Chess_Game/blob/main/GameScore.png)
+## Histogram Plots 
+![Scores](https://github.com/Rash001/AI_Chess_Game/blob/main/ScoresAs_in_Report.png)
+![FiveStatesAIvsAI](https://github.com/Rash001/AI_Chess_Game/blob/main/StatesGameAs_in_report.png)
 
 ## Steps for Execution 
 1. Run the file playChess.py
